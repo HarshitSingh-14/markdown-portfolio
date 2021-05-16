@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Photo is of Harshit Singu](https://media-exp1.licdn.com/dms/image/C4E03AQG1TwbQwoTU5g/profile-displayphoto-shrink_800_800/0/1607187234769?e=1626912000&v=beta&t=M5bSCqAvb2hKuuhykzUrc_uwRQqslcBJNBuPBmw8HhI)
