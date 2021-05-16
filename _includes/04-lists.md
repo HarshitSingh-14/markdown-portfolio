@@ -1,5 +1,5 @@
 #My first List in markdown
-.one
-.two
-.three
-.four
+* one
+* two
+  * three
+  * four
