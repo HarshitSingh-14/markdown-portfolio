@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+##Learning Italcs and bold in markdown.
+
+This is _Italics_ or *Italics*                      
+This is __Bold__  or **Bold**
